@@ -1,4 +1,4 @@
-# TopNotch-NotchKiller
+# TopNotch-NotchBarKiller
 Simple Magisk Module that will allow your phone to Ignore the fact that it has a notch and fill the space ("Kill" the notch)
 
 This is done by replacing the `framework-res__auto_generated.apk` file in `/system/vendor/overlays`
