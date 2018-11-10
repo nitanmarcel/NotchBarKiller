@@ -1,0 +1,17 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+#Ghetto Theming
+ro.com.google.ime.themes_dir=/system/etc/gboard_theme
+persist.audio.vr.enable=true
+ro.wallpapers_loc_request_suw=true
+ro.com.google.ime.theme_id=5
+
+#Media
+ro.config.media_vol_steps=50
+ro.config.vc_call_vol_steps=25
+
+#Stupid Notification
+persist.adb.notify=0
+net.tethering.noprovisioning=true
