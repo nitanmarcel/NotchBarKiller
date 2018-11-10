@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "       Notchfiller.exe      "
+  ui_print "    TopNotch-NotchKiller    "
   ui_print "          By 63c            "
   ui_print "*******************************"
 }
