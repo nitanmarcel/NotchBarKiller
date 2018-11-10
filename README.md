@@ -1,7 +1,7 @@
 # TopNotch-NotchKiller
-Simple Magisk Module that will replace your `framework-res__auto_generated.apk` file in `/system/vendor/overlays`
+Simple Magisk Module that will allow your phone to Ignore the fact that it has a notch and fill the space ("Kill" the notch)
 
-Replacing this .apk will allow your phone to Ignore the fact that it has a notch and fill the space ("Kill" the notch)
+This is done by replacing the `framework-res__auto_generated.apk` file in `/system/vendor/overlays`
 
 This works specifically in vertical fullscreen apps as well as games, such as Instagram, Snapchat, Yahoo Weather, PUBG mobile, etc.
 
