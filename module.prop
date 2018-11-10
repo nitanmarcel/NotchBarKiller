@@ -1,7 +1,7 @@
-id=NotchKiller_exe
-name=TopNotch (Ignore and Fill)
-version=v2
-versionCode=2
+id=NotchKiller
+name=TopNotch NotchKiller (Ignore and Fill)
+version=v1
+versionCode=1
 author=63c
-description=Ignore the notch space and fill it in for vertical fullscreen apps on your PH-1 (Maybe other devices)
+description=Ignore the notch space and fill it in for vertical fullscreen apps on your notched screen devices!
 minMagisk=17000
