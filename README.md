@@ -7,7 +7,7 @@ This works specifically in vertical fullscreen apps as well as games, such as In
 
 Fullscreen applications such as Netflix and YouTube both still recognize your device has an abnormal aspect ratio and you can still zoom in to fill the video or leave it as is.
 
-THIS MOD HAS ONLY BEEN TESTED AND VERIFIED TO WORK ON THE ESSENTIAL PH-1 (Mata)
+THIS MOD HAS ONLY BEEN TESTED AND VERIFIED TO WORK ON THE ESSENTIAL PH-1 AND I WILL NOT PROVIDE SUPPORT FOR OTHER D
 
 Before: https://imgur.com/a/81G5duv (See the white bar in the notch space?)
 
