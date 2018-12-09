@@ -1,7 +1,7 @@
 id=NotchBarKiller
 name=TopNotch NotchBarKiller (Ignore and Fill)
-version=v4
-versionCode=4
+version=v5
+versionCode=5
 author=63c
 description=Ignore the notch space and fill it in for vertical fullscreen apps and games on your notched screen devices! (please view readme)
 minMagisk=17000
