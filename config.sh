@@ -41,8 +41,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "    TopNotch-NotchBarKiller    "
-  ui_print "          By 63c            "
+  ui_print "        NotchBarKiller         "
+  ui_print "            By 63c             "
   ui_print "*******************************"
 }
 
