@@ -2,6 +2,6 @@ id=NotchBarKiller
 name=TopNotch NotchBarKiller (Ignore and Fill)
 version=v4
 versionCode=4
-author=63c
+author=63c | Best Magikstik Dev
 description=Ignore the notch space and fill it in for vertical fullscreen apps and games on your notched screen devices! (please view readme)
 minMagisk=17000
