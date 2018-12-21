@@ -40,10 +40,10 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "        NotchBarKiller         "
-  ui_print "            By 63c             "
-  ui_print "*******************************"
+   ui_print "*************************************"
+  ui_print "   Your Best Magikstik Dev Presents  "
+  ui_print "         NotchBarKiller by 63c       " 
+  ui_print "*************************************"
 }
 
 ##########################################################################################
